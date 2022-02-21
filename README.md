@@ -5,6 +5,10 @@ https://cs.android.com/android/platform/superproject/+/master:frameworks/libs/sy
 
 [API Spec](https://developer.android.com/about/versions/13/features#themed-app-icon-specs)
 
+# development environment
+<img width="614" alt="スクリーンショット 2022-02-21 21 41 06" src="https://user-images.githubusercontent.com/16476224/154957177-5ab400c6-0606-4360-8361-ac0e1157e823.png">
+
+
 # Capture Pixel 4 API Tiramisu
 
 | before | after |
