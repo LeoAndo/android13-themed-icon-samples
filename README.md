@@ -5,9 +5,6 @@ https://cs.android.com/android/platform/superproject/+/master:frameworks/libs/sy
 
 [API Spec](https://developer.android.com/about/versions/13/features#themed-app-icon-specs)
 
-# coding flow
-https://github.com/LeoAndo/android-themed-icon-samples/pulls?q=is%3Apr+is%3Aclosed
-
 # Capture Pixel 4 API Tiramisu
 
 | before | after |
